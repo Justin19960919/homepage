@@ -20,7 +20,7 @@ title                    : "Chieh Lin Lee's Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chieh Lin Lee , or you can call me Justin Lee"
-description              : "I'm currently a computer science graduate student studying in Northeastern Univeristy @ Seattle."
+description              : "Data Science, Python, Software engineering, Northeastern University"
 url                      : "https://justin19960919.github.io"
 baseurl                  : "/homepage"
 repository               : "Justin19960919/homepage"
@@ -89,6 +89,9 @@ analytics:
   google:
     tracking_id          : "UA-178409326-1"
     anonymize_ip         : # true, false (default)
+
+## splash page
+layout: splash
 
 
 # Site Author
@@ -178,6 +181,10 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Search
+search: true
 
 
 # Conversion
@@ -280,3 +287,18 @@ defaults:
       comments: true
       share: true
       related: true
+
+  # # _foo
+  # - scope:
+  #     path: ""
+  #     type: foo
+  #   values:
+  #     layout: single
+
+
+
+
+
+
+
+
