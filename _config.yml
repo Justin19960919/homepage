@@ -102,7 +102,7 @@ author:
 
     - label: "CV"
       icon: "fas fa-fw fa-id-card"
-      url:  "https://justin19960919.github.io/Chieh-Lin_Lee_CV.pdf"
+      url:  "https://justin19960919.github.io/homepage/Chieh-Lin_Lee_CV.pdf"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://justin19960919.github.io/homepage/"
@@ -277,6 +277,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
