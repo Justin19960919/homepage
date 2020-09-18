@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/profile_pic.jpg"
   bio              : "I'm currently a computer science graduate student studying in Northeastern Univeristy @ Seattle."
   location         : "Seattle"
-  email            : #"chiehlinleee@gmail.com"
+  email            : "chiehlinleee@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
