@@ -102,6 +102,11 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url:  "chiehlinleee@gmail.com"
+    
+    - label: "CV"
+      icon: "fas fa-fw fa-id-card"
+      url:  "/Chieh-Lin_Lee_CV.pdf"
+
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://justin19960919.github.io/homepage/"
