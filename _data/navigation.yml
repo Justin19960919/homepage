@@ -2,8 +2,22 @@
 main:
 
   - title: "About"
-    url: /about.html
-
+    url: /about/
   - title: "Projects"
-    url: /projects.html
+    url: /projects/
+  - title: "PPP"
+    url: /ppp/
 
+
+# main links
+#main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#  - title: "About"
+#    url: /about/
+#  - title: "Publications"
+#   url: /Publications/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap

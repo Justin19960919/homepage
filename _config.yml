@@ -97,14 +97,14 @@ author:
   avatar           : "/assets/images/profile_pic.jpg"
   bio              : "I'm currently a computer science graduate student studying in Northeastern Univeristy @ Seattle."
   location         : "Seattle"
-  email            : #"chiehlinleee@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url:  "chiehlinleee@gmail.com"
     - label: "CV"
       icon: "fas fa-fw fa-id-card"
-      url:  "/Chieh-Lin_Lee_CV.pdf"
+      url:  "https://justin19960919.github.io/Chieh-Lin_Lee_CV.pdf"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://justin19960919.github.io/homepage/"
