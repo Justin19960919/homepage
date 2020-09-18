@@ -90,8 +90,16 @@ analytics:
     tracking_id          : "UA-178409326-1"
     anonymize_ip         : # true, false (default)
 
-## splash page
-layout: splash
+
+##  header
+excerpt: "This post should be a header"
+header:
+  overlay_image: /assets/images/ocean.jpg
+  overlay_filter: 0.5 
+  caption: "Beach in eastern Taiwan"
+  actions:
+    - label: "Download"
+      url: "https://github.com"
 
 
 # Site Author
