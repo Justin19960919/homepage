@@ -90,8 +90,15 @@ analytics:
     tracking_id          : "UA-178409326-1"
     anonymize_ip         : # true, false (default)
 
+## image
+header:
+  image: /assets/images/ocean.jpg
+  image_description: "Beach in eastern Taiwan"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
-##  header
+
+
+##  overlay image
 excerpt: "This post should be a header"
 header:
   overlay_image: /assets/images/ocean.jpg
