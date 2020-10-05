@@ -90,23 +90,32 @@ analytics:
     tracking_id          : "UA-178409326-1"
     anonymize_ip         : # true, false (default)
 
+
+## internet image
+header:
+  image: "https://get.wallhere.com/photo/1600x1280-px-1muo-action-fantasy-fighting-medieval-mmo-mu-online-perfect-poster-RPG-samurai-warrior-1569603.jpg"
+  image_description: "random image from internet"
+
+
+
+
+
 ## image
-header:
-  image: /assets/images/ocean.jpg
-  image_description: "Beach in eastern Taiwan"
-  caption: "Photo credit:"
+
+# header:
+#   image: /assets/images/ocean.jpg
+#   image_description: "Beach in eastern Taiwan"
+#   caption: "Photo credit:"
 
 
 
-##  overlay image
-excerpt: "This post should be a header"
-header:
-  overlay_image: /assets/images/ocean.jpg
-  overlay_filter: 0.5 
-  caption: "Beach in eastern Taiwan"
-  actions:
-    - label: "Download"
-      url: "https://github.com"
+# ##  overlay image
+# excerpt: "This post should be a header"
+# header:
+#   overlay_image: /assets/images/ocean.jpg
+#   overlay_filter: 0.5 
+#   caption: "Beach in eastern Taiwan"
+
 
 
 # Site Author
